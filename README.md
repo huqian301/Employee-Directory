@@ -6,21 +6,15 @@ For this assignment, I'll create a employee directory with React. It's required 
 
 ## Project links
 <li>GitHub link: https://github.com/huqian301/Employee-Directory<br/></li>
-<li>Heroku link: https://react-portfolio-qian.herokuapp.com/</li>
+<li>Heroku link: https://e-directory.herokuapp.com/</li>
 
 ## Output 
-Here is the [Video](https://drive.google.com/drive/folders/1criQYlA7dzgzG4M9ekAER7u1-LnfUMuz?usp=sharing) that shows entire page.<br>
-
-![video screenshot](public/img/video-screenshot.png) 
-
+Here is the [Video](https://drive.google.com/file/d/1bvVZIKEYn9NQzCyEKoVg6ocHo2A1HHbX/view?usp=sharing) that shows entire page.<br>
 
 The final page will be look like as below image.
 
-![html screenshot](public/img/react-portfolio-output.png) 
+![html screenshot](./img/Employee-Directory.png) 
 
-## Overview
-
-For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.
 
 ## User Story
 
