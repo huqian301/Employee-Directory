@@ -1,4 +1,22 @@
 # Unit 19 React Homework: Employee Directory
+## Student name: Qian Hu
+## Instructor: Emmanuel Jucaban
+## Description
+For this assignment, I'll create a employee directory with React. It's required to break up the application's UI into components, manage component state, and respond to user events.
+
+## Project links
+<li>GitHub link: https://github.com/huqian301/Employee-Directory<br/></li>
+<li>Heroku link: https://react-portfolio-qian.herokuapp.com/</li>
+
+## Output 
+Here is the [Video](https://drive.google.com/drive/folders/1criQYlA7dzgzG4M9ekAER7u1-LnfUMuz?usp=sharing) that shows entire page.<br>
+
+![video screenshot](public/img/video-screenshot.png) 
+
+
+The final page will be look like as below image.
+
+![html screenshot](public/img/react-portfolio-output.png) 
 
 ## Overview
 
